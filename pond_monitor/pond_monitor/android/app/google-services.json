@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "118199750960",
+    "firebase_url": "https://pond-monitor-ss-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pond-monitor-ss",
+    "storage_bucket": "pond-monitor-ss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118199750960:android:7c17ce3342c347dbf678f5",
+        "android_client_info": {
+          "package_name": "com.example.pond_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJh5LyABOYHmX4JSJ1U6CHLuI3wXu4m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
